@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F1E20E3ED9B1ECBEEA724E06C4267DAB2284C659",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F1E20E3ED9B1ECBEEA724E06C4267DAB2284C659" : 9223372036854775807,
+    "805522026A235CDE52CBEDD029E83ABA564C7F71" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D45596AE-C66E-4A44-85B3-3E7493C3BA54",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F1E20E3ED9B1ECBEEA724E06C4267DAB2284C659" : "NetworkActivityIndicator\/",
+    "805522026A235CDE52CBEDD029E83ABA564C7F71" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NetworkActivityIndicator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NetworkActivityIndicator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gdibernardo\/NetworkActivityIndicator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "805522026A235CDE52CBEDD029E83ABA564C7F71"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gdibernardo\/NetworkActivityIndicator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F1E20E3ED9B1ECBEEA724E06C4267DAB2284C659"
+    }
+  ]
+}

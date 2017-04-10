@@ -19,6 +19,7 @@ class NetworkActivityIndicator: NSObject
     private var requestedActivities: Int = 0
     
     
+    
     static func sharedInstance() -> NetworkActivityIndicator
     {
         return instance
