@@ -12,7 +12,7 @@ import UIKit
 
 
 
-class NetworkActivityIndicator: NSObject
+public class NetworkActivityIndicator: NSObject
 {
     private static let instance = NetworkActivityIndicator()
     
@@ -20,13 +20,13 @@ class NetworkActivityIndicator: NSObject
     
     
     
-    static func sharedInstance() -> NetworkActivityIndicator
+    public static func sharedInstance() -> NetworkActivityIndicator
     {
         return instance
     }
     
     
-    func show()
+    public func show()
     {
         self.lock()
         
@@ -39,7 +39,7 @@ class NetworkActivityIndicator: NSObject
     }
     
     
-    func hide()
+    public func hide()
     {
         self.lock()
         
@@ -58,7 +58,7 @@ class NetworkActivityIndicator: NSObject
     }
     
     
-    func isOnScreen() -> Bool
+    public func isOnScreen() -> Bool
     {
         self.lock()
         defer {
